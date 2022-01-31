@@ -25,5 +25,5 @@ code {
   --text-primary: white;
   --text-secondary: grey;
   --accent: darkred;
-  --green_btn: blue;
+  --green_btn: rgb(67, 67, 139);
 }
